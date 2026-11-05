@@ -2,7 +2,7 @@
 
 Z. Xu (2026), *Structure-motivated phantom-crossing dark energy: joint constraints from DESI DR2, supernovae and growth*, Research Square preprint, [doi:10.21203/rs.3.rs-11371459/v1](https://doi.org/10.21203/rs.3.rs-11371459/v1).
 
-This repository holds the manuscript and the plotted data behind the figures and tables of the paper. The same files are archived on Zenodo.
+This repository holds the manuscript and the plotted data behind the figures and tables of the paper. The same files are archived on Zenodo: [doi:10.5281/zenodo.23988559](https://doi.org/10.5281/zenodo.23988559) ([https://zenodo.org/records/23988559](https://zenodo.org/records/23988559)).
 
 ## Major findings (dark energy and structure growth)
 
