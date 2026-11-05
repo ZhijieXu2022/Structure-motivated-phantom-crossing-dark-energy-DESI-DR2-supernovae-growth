@@ -1,0 +1,12 @@
+# Publisher,Zhijie Xu,zhijie.xu@pnnl.gov,zhijiexu@hotmail.com,,,,,
+# Updated,10/2026,,,,,,,
+#Name,"Table tab:halofit: Fits with the halo-integral source, A_ halo(a)(D/D_0)^n (equation eq:ap_halo), with Om and n free (k=4 for BAO+CMB, 5 jointly, including h and omega_b), for two halo definitions; Deltachi^2 relative to LambdaCDM. Fixed-n fits that reach the bound Om=0.27 are lower limits on Deltachi^2.",,,,,,,
+#Ref. [1] This paper,reproducibility package,"Z. Xu, Structure-motivated phantom-crossing dark energy: joint constraints from DESI DR2, supernovae and growth",,,,,,
+#Note,Written by the author's pipeline (table halofit); cells as printed,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Halo definition,Data,Deltachi^2,Om,n,w_0,Deltachi^2(n=0),Deltachi^2(n=1),Deltachi^2(n=2)
+"200rho_c, Duffy c(M,z)",BAO+CMB,+4.0,0.280,-0.42,-1.14,+12.0,+85.8,+290.0
+"200rho_c, Duffy c(M,z)",joint,+25.0,0.294,-0.78,-1.08,+88.8,+301.6,+665.0
+"200_m, Duffy c(M,z)",BAO+CMB,-7.7,0.336,1.49,-0.66,+116.2,+2.2,+0.8
+"200_m, Duffy c(M,z)",joint,+3.1,0.320,1.91,-0.72,+298.7,+60.4,+3.5

@@ -1,0 +1,28 @@
+# Publisher,Zhijie Xu,zhijie.xu@pnnl.gov,zhijiexu@hotmail.com
+# Updated,10/2026,,
+#Name,Evidence relative to LCDM from the likelihood grid (Laplace/spline over the grid; CPL by the Laplace approximation) (evid_v15.json),,
+#Ref. [1] This paper,reproducibility package,"Z. Xu, Structure-motivated phantom-crossing dark energy: joint constraints from DESI DR2, supernovae and growth",
+,,,
+,,,
+data,model,Delta ln Z,numerical error
+bao,free|a,0.446619154,0.744881196
+bao,free|t,-0.135999416,0.865542103
+bao,free|D,-0.481923729,0.902902228
+bao,phys|a,0.508947036,0.618947742
+bao,phys|t,-0.268803009,0.658499894
+bao,phys|D,-0.771617843,0.646936042
+sn,free|a,0.687278263,0.924729485
+sn,free|t,0.508947024,1.22215916
+sn,free|D,0.0757820552,1.49282968
+sn,phys|a,1.02803801,0.900591096
+sn,phys|t,0.615135729,1.09336266
+sn,phys|D,-0.300829247,1.23894294
+joint,free|a,0.834103274,0.934749493
+joint,free|t,0.640980247,1.23931508
+joint,free|D,0.220644398,1.51457134
+joint,phys|a,1.17032834,0.908678417
+joint,phys|t,0.723531265,1.10078667
+joint,phys|D,-0.210526269,1.2394878
+bao,cpl,-0.336444811,NaN
+sn,cpl,-2.33474725,NaN
+joint,cpl,-2.22363225,NaN

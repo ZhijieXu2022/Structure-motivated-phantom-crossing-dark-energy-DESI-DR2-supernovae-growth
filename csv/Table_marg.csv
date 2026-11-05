@@ -1,0 +1,14 @@
+# Publisher,Zhijie Xu,zhijie.xu@pnnl.gov,zhijiexu@hotmail.com,,,,
+# Updated,10/2026,,,,,,
+#Name,"Table tab:marg: Marginalized constraints from the joint fit, as in Table tab:bao_marg. sigma_8 is marginalized analytically.",,,,,,
+#Ref. [1] This paper,reproducibility package,"Z. Xu, Structure-motivated phantom-crossing dark energy: joint constraints from DESI DR2, supernovae and growth",,,,,
+#Note,Written by the author's pipeline (table marg); cells as printed,,,,,,
+,,,,,,,
+,,,,,,,
+Prior,Clock,Om,sigma_min,n,n (95\%),H_0,w_0
+effective,a,0.312+-0.006,10.2+-6.1,1.78+-0.28,"[1.07,2.17]",67.5+-0.5,-0.854+-0.022
+effective,t,0.310+-0.007,6.2+-4.8,1.05+-0.40,"[0.15,1.66]",67.6+-0.5,-0.909+-0.029
+effective,D,0.310+-0.007,3.9+-2.8,0.46+-0.45,"[-0.51,1.27]",67.7+-0.5,-0.935+-0.031
+excursion set,a,0.312+-0.006,10.6+-6.0,1.82+-0.23,"[1.27,2.17]",67.5+-0.5,-0.856+-0.020
+excursion set,t,0.309+-0.006,7.4+-5.0,1.22+-0.26,"[0.73,1.68]",67.7+-0.5,-0.919+-0.024
+excursion set,D,0.308+-0.007,5.5+-3.6,0.84+-0.25,"[0.43,1.35]",67.8+-0.5,-0.956+-0.023

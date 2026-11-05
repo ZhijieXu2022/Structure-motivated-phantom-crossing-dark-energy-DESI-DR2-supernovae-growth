@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this manuscript or its data, please cite the paper."
+title: "Structure-motivated phantom-crossing dark energy: joint constraints from DESI DR2, supernovae and growth"
+authors:
+  - family-names: Xu
+    given-names: Zhijie (Jay)
+    affiliation: Pacific Northwest National Laboratory
+    orcid: "https://orcid.org/0000-0003-0459-4531"
+license: CC-BY-4.0
+date-released: 2026-11-05
+version: "2"
+keywords: ["dark energy", "dark matter", "cosmology: theory", "cosmological parameters", "large-scale structure", DESI, "growth rate"]
+preferred-citation:
+  type: article
+  title: "Structure-motivated phantom-crossing dark energy: joint constraints from DESI DR2, supernovae and growth"
+  authors:
+    - family-names: Xu
+      given-names: Zhijie (Jay)
+  journal: "Research Square (preprint)"
+  doi: "10.21203/rs.3.rs-11371459/v1"
+  url: "https://doi.org/10.21203/rs.3.rs-11371459/v1"
+  year: 2026

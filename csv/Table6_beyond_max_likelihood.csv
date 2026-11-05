@@ -1,0 +1,22 @@
+# Publisher,Zhijie Xu,zhijie.xu@pnnl.gov,zhijiexu@hotmail.com,,,
+# Updated,10/2026,,,,,
+#Name,"Table 6: evidence, out-of-sample SN prediction and significance (BAO + compressed CMB + one SN compilation)",,,,,
+#Ref. [1] This paper,reproducibility package,"Z. Xu, Structure-motivated phantom-crossing dark energy: joint constraints from DESI DR2, supernovae and growth",,,,
+#Ref. [2] DESI Collaboration (2025),https://doi.org/10.1103/tr6y-kpc6,DESI DR2 BAO and compressed CMB,,,,
+#Note,"code/cpl_comparison (author's CPL_comparison, rerun in this edition): evidence.json (dynesty), ppd.json, summary.json",,,,,
+#Note,"SN likelihoods: Cobaya 3.6.2 implementations of Pantheon+, Union3, DES-SN5YR, DES-Dovekie",,,,,
+,,,,,,
+,,,,,,
+model,SN compilation,ln B vs LCDM,ln B error,prediction -2ln<L_SN> vs LCDM (BAO+CMB posterior),Delta chi2 vs LCDM,"significance [sigma], k = 2"
+CPL,PantheonPlus,-2.87196535,0.357145627,4.79378326,-7.49980438,2.26487997
+CPL,Union3,1.21296343,0.346710586,-3.59494927,-13.696646,3.27376883
+CPL,DESY5,2.59687267,0.354756569,-6.25578905,-17.8861051,3.82524586
+CPL,DES-Dovekie,-1.01876043,0.35679563,1.53896003,-10.702036,2.82396748
+t-clock,PantheonPlus,0.91656903,0.351335966,-1.67977627,-9.04514566,2.54713811
+t-clock,Union3,2.93412748,0.352710725,-4.96742928,-12.9183422,3.16214915
+t-clock,DESY5,4.71915418,0.361291957,-9.18128147,-17.6068332,3.7907072
+t-clock,DES-Dovekie,1.44235566,0.359533934,-3.30311453,-11.0163794,2.8739728
+linear w(f),PantheonPlus,0.524508185,0.342850128,0.201279098,-7.55008636,2.27449735
+linear w(f),Union3,3.27922736,0.353970265,-5.69933573,-13.7332478,3.27893698
+linear w(f),DESY5,5.28277075,0.352582404,-9.36983723,-17.7765561,3.81173088
+linear w(f),DES-Dovekie,1.68571516,0.352859996,-2.3114005,-10.5946398,2.80671245

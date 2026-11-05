@@ -1,0 +1,17 @@
+# Publisher,Zhijie Xu,zhijie.xu@pnnl.gov,zhijiexu@hotmail.com,,,,,,,
+# Updated,10/2026,,,,,,,,,
+#Name,"Table tab:bao_fits: The linear-w(f) model, Eq. (eq:s_linear), has n and f_x fitted (both given in the n column). Best fits to DESI DR2 BAO with the compressed CMB likelihood on (theta_*,omega_b,omega_bc) (N=16; k includes h and omega_b), with Om, sigma_min and n fitted, for the effective (sigma_min>=1.2) and excursion-",,,,,,,,,
+#Ref. [1] This paper,reproducibility package,"Z. Xu, Structure-motivated phantom-crossing dark energy: joint constraints from DESI DR2, supernovae and growth",,,,,,,,
+#Note,Written by the author's pipeline (table bao_fits); cells as printed,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Prior,Model,chi^2,Deltachi^2,AIC_c / BIC,Om,sigma_min,log_10M_min,beta_f,n,w_0
+NaN,LambdaCDM (k=3),15.01,0,23.01 / 23.32,0.301,NaN,NaN,NaN,NaN,-1.00
+NaN,CPL (k=5),7.10,-7.91,23.10 / 20.96,0.351,NaN,NaN,NaN,NaN,-0.45
+NaN,linear w(f) (k=5),7.09,-7.91,23.09 / 20.95,0.341,NaN,NaN,NaN,6.00 (f_x=0.74),-0.61
+effective,a-clock,8.05,-6.96,24.05 / 21.91,0.325,2.74,(11.2),1.11,0.81,-0.78
+effective,t-clock,8.47,-6.54,24.47 / 22.33,0.321,2.3,(11.7),1.29,0.13,-0.84
+effective,D-clock,8.77,-6.24,24.77 / 22.63,0.318,2.12,(12.0),1.41,-0.27,-0.88
+excursion set,a-clock,8.13,-6.87,24.13 / 21.99,0.323,3.215,10.6,1.00,1.06,-0.80
+excursion set,t-clock,8.97,-6.04,24.97 / 22.83,0.314,3.215,10.6,1.00,0.75,-0.89
+excursion set,D-clock,9.69,-5.32,25.69 / 23.55,0.308,3.215,10.6,1.00,0.58,-0.95

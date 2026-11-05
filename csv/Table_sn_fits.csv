@@ -1,0 +1,17 @@
+# Publisher,Zhijie Xu,zhijie.xu@pnnl.gov,zhijiexu@hotmail.com,,,,,,,
+# Updated,10/2026,,,,,,,,,
+#Name,"Table tab:sn_fits: The linear-w(f) model, Eq. (eq:s_linear), has n and f_x fitted (both given in the n column). Best fits without the growth data (BAO, CMB information and supernovae; N=1606).",,,,,,,,,
+#Ref. [1] This paper,reproducibility package,"Z. Xu, Structure-motivated phantom-crossing dark energy: joint constraints from DESI DR2, supernovae and growth",,,,,,,,
+#Note,Written by the author's pipeline (table sn_fits); cells as printed,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Prior,Model,chi^2,Deltachi^2,AIC_c / BIC,Om,sigma_min,log_10M_min,beta_f,n,w_0
+NaN,LambdaCDM (k=3),1420.78,0,1426.80 / 1442.93,0.302,NaN,NaN,NaN,NaN,-1.00
+NaN,CPL (k=5),1413.28,-7.50,1423.32 / 1450.19,0.311,NaN,NaN,NaN,NaN,-0.85
+NaN,linear w(f) (k=5),1413.23,-7.55,1423.27 / 1450.14,0.311,NaN,NaN,NaN,2.24 (f_x=0.71),-0.86
+effective,a-clock,1412.74,-8.04,1422.78 / 1449.65,0.312,6.29,8.0,0.76,1.76,-0.85
+effective,t-clock,1411.74,-9.05,1421.78 / 1448.65,0.312,3.12,(10.7),1.02,0.78,-0.89
+effective,D-clock,1411.52,-9.26,1421.56 / 1448.43,0.311,2.5,(11.5),1.20,0.18,-0.92
+excursion set,a-clock,1412.74,-8.04,1422.78 / 1449.65,0.312,6.29,8.0,0.76,1.76,-0.85
+excursion set,t-clock,1411.74,-9.04,1421.78 / 1448.65,0.311,3.215,10.6,1.00,0.81,-0.90
+excursion set,D-clock,1412.21,-8.57,1422.25 / 1449.12,0.309,3.215,10.6,1.00,0.54,-0.94

@@ -1,0 +1,21 @@
+# Publisher,Zhijie Xu,zhijie.xu@pnnl.gov,zhijiexu@hotmail.com,,,
+# Updated,10/2026,,,,,
+#Name,"Table tab:prof: Deltachi^2 relative to LambdaCDM at fixed exponent, with Om and sigma_min refitted; in brackets, the loss relative to the free-n optimum of the same clock, data set and prior, and Delta AIC_c of the restricted model relative to free n (negative values favour the restricted model). Delta BIC follows ",,,,,
+#Ref. [1] This paper,reproducibility package,"Z. Xu, Structure-motivated phantom-crossing dark energy: joint constraints from DESI DR2, supernovae and growth",,,,
+#Note,Written by the author's pipeline (table prof); cells as printed,,,,,
+,,,,,,
+,,,,,,
+Data,Prior,Clock,free n,n=0,n=1,n=2
+NaN,NaN,NaN,NaN,3cDeltachi^2 (loss; Delta AIC_c),NaN,NaN
+BAO+CMB,effective,a,-6.96,-6.33 (0.6; -3.7),-6.91 (0.0; -4.3),-4.98 (2.0; -2.4)
+BAO+CMB,NaN,t,-6.54,-6.52 (0.0; -4.3),-5.54 (1.0; -3.4),+0.68 (7.2; +2.9)
+BAO+CMB,NaN,D,-6.24,-6.16 (0.1; -4.3),-4.06 (2.2; -2.2),+6.39 (12.6; +8.3)
+BAO+CMB,excursion set,a,-6.87,+44.65 (51.5; +47.2),-6.73 (0.1; -4.2),-4.98 (1.9; -2.5)
+BAO+CMB,NaN,t,-6.04,+19.16 (25.2; +20.8),-5.54 (0.5; -3.9),+0.68 (6.7; +2.4)
+BAO+CMB,NaN,D,-5.32,+8.00 (13.3; +9.0),-4.06 (1.3; -3.1),+6.39 (11.7; +7.3)
+joint,effective,a,-8.35,+2.72 (11.1; +9.0),-6.05 (2.3; +0.3),-8.04 (0.3; -1.7)
+joint,NaN,t,-9.40,-7.13 (2.3; +0.2),-9.08 (0.3; -1.7),+8.05 (17.4; +15.4)
+joint,NaN,D,-9.65,-9.56 (0.1; -1.9),-5.87 (3.8; +1.8),+32.51 (42.2; +40.1)
+joint,excursion set,a,-8.35,+122.50 (130.9; +128.8),-2.23 (6.1; +4.1),-8.04 (0.3; -1.7)
+joint,NaN,t,-9.38,+48.93 (58.3; +56.3),-9.08 (0.3; -1.7),+8.05 (17.4; +15.4)
+joint,NaN,D,-8.84,+15.32 (24.2; +22.1),-5.87 (3.0; +0.9),+32.51 (41.4; +39.3)

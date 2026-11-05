@@ -1,0 +1,20 @@
+# Publisher,Zhijie Xu,zhijie.xu@pnnl.gov,zhijiexu@hotmail.com,,,,,
+# Updated,10/2026,,,,,,,
+#Name,Table tab:bao_hist: Dark-energy histories at the BAO+CMB best fits.,,,,,,,
+#Ref. [1] This paper,reproducibility package,"Z. Xu, Structure-motivated phantom-crossing dark energy: joint constraints from DESI DR2, supernovae and growth",,,,,,
+#Note,Written by the author's pipeline (table bao_hist); cells as printed,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Prior,Clock,col3,z=0,0.3,0.5,1,2,3
+effective,a (n=0.81),"/rho_ DE,0",1.00,1.14,1.18,1.11,0.69,0.31
+effective,NaN,w,-0.78,-0.89,-0.97,-1.18,-1.66,-2.25
+effective,t (n=0.13),"/rho_ DE,0",1.00,1.11,1.15,1.10,0.66,0.25
+effective,NaN,w,-0.84,-0.90,-0.96,-1.16,-1.76,-2.54
+effective,D (n=-0.27),"/rho_ DE,0",1.00,1.09,1.12,1.08,0.64,0.22
+effective,NaN,w,-0.88,-0.91,-0.96,-1.15,-1.82,-2.71
+excursion set,a (n=1.06),"/rho_ DE,0",1.00,1.13,1.16,1.10,0.73,0.39
+excursion set,NaN,w,-0.80,-0.90,-0.98,-1.16,-1.54,-1.98
+excursion set,t (n=0.75),"/rho_ DE,0",1.00,1.07,1.09,1.06,0.77,0.45
+excursion set,NaN,w,-0.89,-0.94,-0.98,-1.11,-1.44,-1.87
+excursion set,D (n=0.58),"/rho_ DE,0",1.00,1.04,1.05,1.03,0.79,0.48
+excursion set,NaN,w,-0.95,-0.96,-0.98,-1.08,-1.39,-1.81

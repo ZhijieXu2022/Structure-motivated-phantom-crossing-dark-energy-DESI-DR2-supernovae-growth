@@ -1,0 +1,10 @@
+# Publisher,Zhijie Xu,zhijie.xu@pnnl.gov,zhijiexu@hotmail.com,,,,,,,,
+# Updated,10/2026,,,,,,,,,,
+#Name,Linear-w(f) model best fits (linf_v16.json),,,,,,,,,,
+#Ref. [1] This paper,reproducibility package,"Z. Xu, Structure-motivated phantom-crossing dark energy: joint constraints from DESI DR2, supernovae and growth",,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+data,chi2,Delta chi2,Om,n,f_x,w0,H0,AICc,BIC,a_cross,a_Lambda
+bao,7.09169672,-7.91413634,0.340538186,6,0.744131462,-0.607748965,64.6507039,23.0916967,20.9546403,0.652666245,0.740486933
+sn,1413.2333,-7.55021654,0.310979267,2.23704988,0.707956942,-0.862854663,67.4949959,1423.2708,1450.14081,0.707537695,0.749566611
+joint,1416.29614,-7.79031237,0.311034806,2.26734688,0.708412381,-0.860672551,67.4854216,1428.34854,1460.60007,0.707537695,0.749300405

@@ -1,0 +1,17 @@
+# Publisher,Zhijie Xu,zhijie.xu@pnnl.gov,zhijiexu@hotmail.com,,,,,,,,,,,
+# Updated,10/2026,,,,,,,,,,,,,
+#Name,"Table tab:fits: The linear-w(f) model, Eq. (eq:s_linear), has n and f_x fitted (both given in the n column). Joint best fits (N=1610; k includes h, omega_b and sigma_8). The a-clock optimum satisfies the excursion-set bound, so its two fits coincide. The last four columns decompose chi^2 into BAO, the compressed CM",,,,,,,,,,,,,
+#Ref. [1] This paper,reproducibility package,"Z. Xu, Structure-motivated phantom-crossing dark energy: joint constraints from DESI DR2, supernovae and growth",,,,,,,,,,,,
+#Note,Written by the author's pipeline (table fits); cells as printed,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+Prior,Model,chi^2,Deltachi^2,AIC_c / BIC,Om,sigma_min,log_10M_min,beta_f,n,w_0,BAO,CMB,SN,fsigma_8
+NaN,LambdaCDM (k=4),1424.09,0,1432.11 / 1453.62,0.302,NaN,NaN,NaN,NaN,-1.00,12.11,3.00,1405.67,3.30
+NaN,CPL (k=6),1416.36,-7.72,1428.41 / 1460.67,0.311,NaN,NaN,NaN,NaN,-0.85,9.47,0.83,1402.99,3.08
+NaN,linear w(f) (k=6),1416.30,-7.79,1428.35 / 1460.60,0.311,NaN,NaN,NaN,2.27 (f_x=0.71),-0.86,9.40,0.82,1403.02,3.06
+effective,a-clock,1415.74,-8.35,1427.79 / 1460.04,0.312,5.95,8.0,0.77,1.73,-0.85,9.11,0.30,1403.34,2.99
+effective,t-clock,1414.69,-9.40,1426.74 / 1459.00,0.312,3.06,(10.8),1.03,0.75,-0.89,8.84,0.19,1402.71,2.95
+effective,D-clock,1414.44,-9.65,1426.49 / 1458.74,0.311,2.45,(11.5),1.22,0.14,-0.92,8.89,0.12,1402.52,2.91
+excursion set,a-clock,1415.74,-8.35,1427.79 / 1460.04,0.312,5.95,8.0,0.77,1.73,-0.85,9.11,0.30,1403.34,2.99
+excursion set,t-clock,1414.71,-9.38,1426.76 / 1459.01,0.311,3.215,10.6,1.00,0.81,-0.90,8.83,0.27,1402.65,2.96
+excursion set,D-clock,1415.24,-8.84,1427.30 / 1459.55,0.309,3.215,10.6,1.00,0.54,-0.94,9.03,0.70,1402.48,3.03

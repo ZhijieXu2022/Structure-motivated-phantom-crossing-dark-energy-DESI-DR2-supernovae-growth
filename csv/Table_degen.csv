@@ -1,0 +1,14 @@
+# Publisher,Zhijie Xu,zhijie.xu@pnnl.gov,zhijiexu@hotmail.com,,,,,,
+# Updated,10/2026,,,,,,,,
+#Name,"Table tab:degen: Joint best fits: present assembly slope eta_0, exponent n and their sum; late crossing of w=-1, a_ cross, and dark-energy-matter equality, a_Lambda; and, from integrating each background and growth equation into the future, D_/D_0 and the asymptotic halo term f_h(). For CPL, a_ cross=1+(1+w_0)/w_a=0",,,,,,,,
+#Ref. [1] This paper,reproducibility package,"Z. Xu, Structure-motivated phantom-crossing dark energy: joint constraints from DESI DR2, supernovae and growth",,,,,,,
+#Note,Written by the author's pipeline (table degen); cells as printed,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Prior,Clock,eta_0,n,eta_0+n,a_ cross,a_Lambda,a_Lambda/a_ cross,D_/D_0,f_h()
+effective,a,0.28,1.73,2.01,0.70,0.749,1.07,1.61,0.66
+effective,t,0.65,0.75,1.40,0.66,0.751,1.14,1.48,0.73
+effective,D,0.88,0.14,1.02,0.63,0.752,1.19,1.43,0.77
+excursion set,a,0.28,1.73,2.01,0.70,0.749,1.07,1.61,0.66
+excursion set,t,0.61,0.81,1.42,0.65,0.751,1.15,1.48,0.72
+excursion set,D,0.61,0.54,1.15,0.60,0.753,1.25,1.42,0.71
